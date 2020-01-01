@@ -1,0 +1,42 @@
+.google:link, 
+.google:visited {
+	color: green;
+}
+.google:hover {
+	color: #16c748;
+	
+}
+.google:active {
+	color:#0e2b0e ;
+}
+#link:link, 
+#link:visited {
+	color: red;
+}
+#link:hover {
+	color: #a8241b;
+	
+}
+#link:active {
+	color: #2e1412 ;
+}
+.crvena {
+	color: red;
+}
+.plava {
+	color: blue;
+}
+.new::after {
+	content:" - NEW ";
+	color: yellow;
+}
+#italic:hover {
+	font-style: italic;
+}
+
+
+
+
+
+
+
